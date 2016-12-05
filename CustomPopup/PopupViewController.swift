@@ -2,8 +2,6 @@
 //  PopupViewController.swift
 //  Scale
 //
-//  Created by 吉田誠志 on 2016/11/29.
-//  Copyright © 2016年 agoows. All rights reserved.
 //
 
 import UIKit
