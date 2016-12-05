@@ -1,6 +1,5 @@
 //
 //  PopupViewController.swift
-//  Scale
 //
 //
 
